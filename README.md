@@ -1,6 +1,6 @@
  ## Snake Game in Python
 ![Game](https://github.com/luiyifm/SnakeGame/blob/main/Snake/Img/SnakeGame.png)
-![Game Over]([ruta/a/la/imagen.png](https://github.com/luiyifm/SnakeGame/blob/main/Snake/Img/SnakeGame2.png))
+![](https://github.com/luiyifm/SnakeGame/blob/main/Snake/Img/SnakeGame2.png)
 ### Step 1: Import the necessary libraries
 ```python
 import turtle
